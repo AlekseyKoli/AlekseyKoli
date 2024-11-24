@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlekseyKoli
+- 👋 Hi, I’m Oleksii
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning ASM, Python, C++
 - 💞️ I’m looking to collaborate on ?
